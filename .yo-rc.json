@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "polyproxy.app"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "polyproxy",
+    "packageName": "polyproxy.app",
+    "packageFolder": "polyproxy/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzRkYjVjZjBmOWNlYmZjOTkyNDI5OGZkOTJhNzQ2YzdiMzVhNDk4YTczZWIyNzMyOWQ0MmFhY2U4M2VkZDRkZDc5Yjk4ZDk4YzFjNTMzNTM4NDAyNjJhYmY0ZDJjZjQ3YzYyMDBhZDJmNjhjMGEzNGI4ZjJjODBlODM4MDFhOWM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
